@@ -1,4 +1,5 @@
 ## Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=galaxy-00)
 
 <!--
 **Galaxy-00/galaxy-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
