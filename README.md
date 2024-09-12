@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+You can check my profile here: https://galaxy-00.github.io
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Galaxy-00)
 
 <!--
