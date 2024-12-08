@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<!--
 My homepage: https://galaxy-00.github.io
-
+-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Galaxy-00)
 
 <!--
